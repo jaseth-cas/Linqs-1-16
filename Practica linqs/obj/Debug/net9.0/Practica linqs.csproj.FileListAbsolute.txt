@@ -1,0 +1,14 @@
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica linqs\bin\Debug\net9.0\Practica linqs.exe
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica linqs\bin\Debug\net9.0\Practica linqs.deps.json
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica linqs\bin\Debug\net9.0\Practica linqs.runtimeconfig.json
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica linqs\bin\Debug\net9.0\Practica linqs.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica linqs\bin\Debug\net9.0\Practica linqs.pdb
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica linqs\obj\Debug\net9.0\Practica linqs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica linqs\obj\Debug\net9.0\Practica linqs.AssemblyInfoInputs.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica linqs\obj\Debug\net9.0\Practica linqs.AssemblyInfo.cs
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica linqs\obj\Debug\net9.0\Practica linqs.csproj.CoreCompileInputs.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica linqs\obj\Debug\net9.0\Practica linqs.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica linqs\obj\Debug\net9.0\refint\Practica linqs.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica linqs\obj\Debug\net9.0\Practica linqs.pdb
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica linqs\obj\Debug\net9.0\Practica linqs.genruntimeconfig.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica linqs\obj\Debug\net9.0\ref\Practica linqs.dll
